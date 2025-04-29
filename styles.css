@@ -38,6 +38,11 @@
     text-align: center;
     border-radius: 8px;
   }
+
+  .hero a{
+    text-decoration: none;
+    color: black;
+  }
   
   .destacados {
     display: flex;
