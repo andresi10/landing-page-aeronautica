@@ -22,6 +22,11 @@
     margin-left: 1em;
     text-decoration: none;
   }
+
+  .home {
+    color: white;
+    text-decoration: none;
+  }
   
   .contenido {
     padding: 2em;

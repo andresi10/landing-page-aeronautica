@@ -1,6 +1,6 @@
 # ✈️ Landing Page Aeronáutica | Aeronautical Landing Page
 
-Este es un proyecto simple de página de aterrizaje con temática aeronáutica. Fue desarrollado como parte de un plan de estudio para aprender HTML, CSS y Flexbox a través de la práctica.  
+Este es un proyecto simple de landing page con temática aeronáutica. Fue desarrollado como parte de un plan de estudio para aprender HTML, CSS y Flexbox a través de la práctica.  
 This is a simple landing page project with an aeronautical theme. It was built as part of a study plan to learn HTML, CSS, and Flexbox with a hands-on approach.
 
 ---
