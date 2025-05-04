@@ -44,6 +44,20 @@
     color: black;
   }
   
+  .hero2 {
+    background-color: #d0e7ff;
+    padding: 2em;
+    text-align: center;
+    border-radius: 8px;
+  }
+
+  .hero2 img{
+    align-items: center;
+    padding: 2em;
+    background-color: #336699;
+    border-radius: 10px;
+  }
+
   .destacados {
     display: flex;
     justify-content: space-around;
